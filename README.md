@@ -1,6 +1,7 @@
 ### Hello World! 
 
-My name is Gabriele Martins, I'm a Software Developer student. I'm currently cursing Information System. 
+My name is Gabriele Martins, I'm a Software Developer student. I am studying Information Systems at the University
+
 
 Here in my Github profile you can find my studies journey. I'm open to any improvement opportunities and tips.   
 
