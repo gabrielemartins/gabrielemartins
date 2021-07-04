@@ -1,6 +1,6 @@
 ### Hello World! 
 
-My name is Gabriele Martins and I'm a developer intern.
+My name is Gabriele Martins and I'm a software development intern.
 
 Here in my Github profile you can find my studies journey. I'm open to any improvement opportunities and tips.   
 
