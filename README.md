@@ -5,6 +5,7 @@ When I'm not coding, you can find me exploring new technologies and staying up-t
 I'm always looking for new challenges and opportunities to collaborate with other like-minded professionals. If you have a project in mind or just want to chat about the latest developments in front-end development, don't hesitate to reach out!
 
 🛠 Skills:
+
     JavaScript
     Node.js
     React
@@ -17,9 +18,11 @@ I'm always looking for new challenges and opportunities to collaborate with othe
     Saas
 
 💼 Work Experience:
+
     [ED] - Intern Software Developer  (2021)
 
 🎓 Education:
+
     Bachelor in Information Systems (7/8 concluded)
 
 🌐 Links:
