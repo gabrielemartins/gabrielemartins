@@ -23,4 +23,5 @@ I'm always looking for new challenges and opportunities to collaborate with othe
     Bachelor in Information Systems (7/8 concluded)
 
 🌐 Links:
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariagabriele-martins)](https://www.linkedin.com/in/mariagabriele-martins)
